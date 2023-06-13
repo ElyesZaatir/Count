@@ -1,11 +1,14 @@
 {
-  "name": "Count",
+  "name": "counttorounded",
   "version": "1.0.0",
-  "description": "",
+  "description": "makes number go rounded haha funny (test module)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "terma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "counttorounded": "^1.0.0"
+  }
 }
